@@ -2,7 +2,7 @@
  
 ◉ I have completed my graduation from CUST Mirpur, Dhaka, Bangladesh.  <br/>
 ◉ I have completed 4 month(From 1 August 2022 to 30 january 2023) internship period from Acquaiint Techologies software company.  <br/>
-◉ Since 01 January 2023, I have been working as a Jr. Web developer in a well-reputed software company. <br/>
+◉ Since 01 January 2023, I have been working as a Software Engineer in a well-reputed software company. <br/>
 ◉ I have good skills in: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ HTML, CSS, Bootstrap <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ JS, JQuery, Vue, Ajax <br/>
