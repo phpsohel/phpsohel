@@ -22,14 +22,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11. Zoom computer bd - mobile, laptop and computer selling app  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12. Co-working app  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13. Ankon Fashion BD  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14. Axessory Shop  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15. BAIL-Bangladesh Auto Industries Limited.  <br/>
 
-◉ Reach me via email: mdselimhossainsuhag@gmail.com <br/>
+◉ Reach me via email: engrsohel123@gmail.com <br/>
 
 
 <!--
-**Selim1710/Selim1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**phpsohel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
