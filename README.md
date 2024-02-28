@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ PHP, Laravel, API and MySQL  <br/>
 
 ◉ The client base project i have worked:   <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Hazira - HR & Payroll system.  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. ERP - Enterprise Resource Planning.  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Somiti - (collect:daily, weekly, monthly deposit from customer )  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Tax - tax information collection.  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Ziarah - Hajj, Tour and Travel management software.  <br/>
@@ -18,7 +18,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. Bikri Software.  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. CMS - Content management software.  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. Hospital Appointment Management Software  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. Axes App - business automation.  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. Hazira - HR & Payroll system.  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11. Zoom computer bd - mobile, laptop and computer selling app  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12. Co-working app  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13. Ankon Fashion BD  <br/>
