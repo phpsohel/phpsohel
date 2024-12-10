@@ -5,7 +5,7 @@
 ◉ I have good skills in: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ HTML, CSS, Bootstrap <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ JS, JQuery, Vue Js, Ajax <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ PHP, Laravel, API and MySQL  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ PHP, Laravel, API and MySQL, Wordpress Theme Development <br/>
 
 ◉ The client base project i have worked:   <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. ERP - Enterprise Resource Planning.  <br/>
