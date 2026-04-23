@@ -1,46 +1,12 @@
- <h2>👋 Myself Md.Sohel Mia </h2>
- 
-◉ I have completed 4 month(From 1 August 2022 to 30 january 2023) internship period from Acquaint Techologies software company.  <br/>
-◉ Since 01 January 2023, I have been working as a Software Engineer in a well-reputed software company. <br/>
-◉ I have good skills in: <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ HTML, CSS, Bootstrap <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ JS, JQuery, React Js, Ajax <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ PHP, Laravel, API and MySQL, Wordpress Theme Development <br/>
+Md. Sohel Mia – Software Engineer
+4+ years of professional experience in web development
+Started career with an internship at Acquaint Technologies (2022–2023) and currently working as a Software Engineer
 
-◉ The client base project i have worked:   <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. ERP - Enterprise Resource Planning.  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Somiti - (collect:daily, weekly, monthly deposit from customer )  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Tax - tax information collection.  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Ziarah - Hajj, Tour and Travel management software.  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. CRM - Customer Relationship Management.  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. Education Consultancy App.  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. Bikri Software.  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. CMS - Content management software.  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. Hospital Appointment Management Software  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. Hazira - HR & Payroll system.  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11. Zoom computer bd - mobile, laptop and computer selling app  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12. Co-working app  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13. Ankon Fashion BD  <br/>
+Skills:
+HTML, CSS, Bootstrap, JavaScript, TypeScript, React, Next.js, jQuery, Ajax, PHP, Laravel, MySQL, API Development, WordPress
 
-◉ Reach me via email: engrsohel123@gmail.com <br/>
+Project Experience:
+ERP, CRM, CMS, Accounting & Tax Systems, HR & Payroll, Appointment Management, Travel Management, E-commerce & Custom Business Applications
 
-
-<!--
-**phpsohel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-symbol:  ■ ◉ ⬤  ★ ✸ ✹ ✿ ✽ ⭐ 🖤 ❤️️ ✔️ ❌ ✅  █ ▌ 
-
-
--->
+Contact:
+engrssohel123@gmail.com
