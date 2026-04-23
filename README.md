@@ -1,52 +1,66 @@
 <div align="center">
-  <h1>👋 Md. Sohel Mia</h1>
-  <h3>Software Engineer</h3>
-  <p>
-    <strong>4+ years of professional experience in web development</strong>
-  </p>
+
+<h1>👋 Md. Sohel Mia</h1>
+<h3>💻 Software Engineer | Full Stack Developer</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=4%2B+Years+Experience;Laravel+%7C+React+%7C+Next.js;Building+Scalable+Web+Apps;Always+Learning+New+Things&center=true&width=500&height=45">
+
+<br/>
+
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-green?style=for-the-badge"/>
+
 </div>
 
-<hr>
+---
 
-<h2>💼 About Me</h2>
-<p>
-  I am a passionate <strong>Software Engineer</strong> with over <strong>4 years of professional experience</strong> in web development.
-  I specialize in building scalable, user-friendly, and high-performance web applications.
+## 👨‍💻 About Me
+
+I am a passionate **Software Engineer** with **4+ years of professional experience** in web development.  
+I specialize in building **scalable, user-friendly, and high-performance web applications**.
+
+I started my journey with an internship at **Acquaint Technologies (2022–2023)**  
+and currently work as a **Software Engineer**, delivering solutions across multiple domains.
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,php,laravel,mysql" />
+
 </p>
 
-<p>
-  I started my professional journey with an internship at <strong>Acquaint Technologies (2022–2023)</strong>
-  and currently work as a <strong>Software Engineer</strong>, delivering solutions across multiple business domains.
-</p>
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, TypeScript, React, Next.js  
+- **Backend:** PHP, Laravel  
+- **Database:** MySQL  
+- **Other:** REST API, jQuery, Ajax, WordPress  
 
-<h2>🚀 Tech Stack</h2>
-<ul>
-  <li><strong>Frontend:</strong> HTML, CSS, Bootstrap, JavaScript, TypeScript, React, Next.js</li>
-  <li><strong>Backend:</strong> PHP, Laravel</li>
-  <li><strong>Database:</strong> MySQL</li>
-  <li><strong>Other:</strong> REST API Development, jQuery, Ajax, WordPress</li>
-</ul>
+---
 
-<h2>📊 Project Experience</h2>
-<ul>
-  <li>Enterprise Resource Planning (ERP) Systems</li>
-  <li>Customer Relationship Management (CRM)</li>
-  <li>Content Management Systems (CMS)</li>
-  <li>Accounting &amp; Tax Management Systems</li>
-  <li>HR &amp; Payroll Solutions</li>
-  <li>Appointment Scheduling Systems</li>
-  <li>Travel &amp; Tour Management Platforms</li>
-  <li>E-commerce &amp; Custom Business Applications</li>
-</ul>
+## 📊 Project Experience
 
-<h2>📫 Contact</h2>
-<ul>
-  <li><strong>Email:</strong> <a href="mailto:engrsohel123@gmail.com">engrsohel123@gmail.com</a></li>
-  <li><strong>WhatsApp:</strong> <a href="https://wa.me/8801686247464">+8801686247464</a></li>
-</ul>
+- 🏢 ERP Systems  
+- 👥 CRM (Customer Relationship Management)  
+- 📰 CMS (Content Management Systems)  
+- 💰 Accounting & Tax Systems  
+- 🧑‍💼 HR & Payroll Systems  
+- 📅 Appointment Management Systems  
+- ✈️ Travel & Tour Management Platforms  
+- 🛒 E-commerce & Custom Business Applications  
 
-<hr>
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **engrsohel123@gmail.com**  
+- 📱 WhatsApp: **+8801686247464**
+
+---
 
 <div align="center">
-  <p><em>Open to collaboration, freelance opportunities, and exciting software projects.</em></p>
+
+### 💡 "Building scalable, modern, and reliable web applications."
+
 </div>
