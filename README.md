@@ -3,7 +3,7 @@
 <h1>👋 Md. Sohel Mia</h1>
 <h3>💻 Software Engineer | Full Stack Developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=4%2B+Years+Experience;Laravel+%7C+React+%7C+Next.js;Building+Scalable+Web+Apps;Always+Learning+New+Things&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=6%2B+Years+Experience;Laravel+%7C+React+%7C+Next.js;Building+Scalable+Web+Apps;Always+Learning+New+Things&center=true&width=500&height=45">
 
 <br/>
 
