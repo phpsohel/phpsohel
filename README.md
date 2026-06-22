@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Software Engineer** with **4+ years of professional experience** in web development.  
+I am a passionate **Software Engineer** with **6+ years of professional experience** in web development.  
 I specialize in building **scalable, user-friendly, and high-performance web applications**.
 
 I started my journey with an internship at **Acquaint Technologies (2022–2023)**  
