@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-6%2B%20Years-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-green?style=for-the-badge"/>
 
 </div>
